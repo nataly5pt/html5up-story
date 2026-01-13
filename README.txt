@@ -1,26 +1,25 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# DEV 209 – Personal Website Project
 
+This project is part of my DEV 209 coursework.  
+The goal is to create, version-control, and publish a personal website using HTML, CSS, Git, and GitHub Pages.
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
+## What I Changed
+- Updated homepage content with my name, learning goals, and description.
+- Customized CSS styles including font size and color theme.
+- Published the site using GitHub Pages.
 
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Technologies Used
+- HTML5
+- CSS3
+- Git
+- GitHub Pages
+- Visual Studio Code
 
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
+## Live Website
+(Insert GitHub Pages link here after publishing)
 
-(* = my other side project -- carrd.co)
-(** = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+## Author
+Nataly Glushak
 
 
 Credits:
